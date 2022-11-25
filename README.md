@@ -6,7 +6,7 @@ Etudiant en informatique
 
 Je suis actuellement étudiant en licence professionnelle informatique et réseaux industriels (IRI), à l’IUT A de Lille .  Je recherche activement un stage de fin d’étude dans le développement informatique, pour une durée de 3 mois : du 20 Mars au 18 Juin afin de valider mon année. Je peux me déplacer dans la métropole lilloise ou en région parisienne.
 
-*   🌍  Je suis situé à lille
+*   🌍  Je suis situé à Lille
 *   ✉️  Vous pouvez me contacter à l'adresse suivante : [antoine.carlu@outlook.fr](mailto:antoine.carlu@outlook.fr)
 *   🧠  J'apprend actuellement React JS et Swift 
 
