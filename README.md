@@ -4,11 +4,11 @@ Bonjour ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Etudiant en informatique
 ------------------------
 
-Je suis actuellement étudiant en licence professionnelle informatique et réseaux industriels (IRI), à l’IUT A de Lille .  Je recherche activement un stage de fin d’étude dans le développement informatique, pour une durée de 3 mois : du 20 Mars au 18 Juin afin de valider mon année. Je peux me déplacer dans la métropole lilloise ou en région parisienne.
+Je suis actuellement étudiant en Master Architecte technique en informatique option logicielle au CFA Insta
 
-*   🌍  Je suis situé à Lille
+*   🌍  Je suis situé à Paris
 *   ✉️  Vous pouvez me contacter à l'adresse suivante : [antoine.carlu@outlook.fr](mailto:antoine.carlu@outlook.fr)
-*   🧠  J'apprend actuellement React JS et Swift 
+*   🧠  J'apprend actuellement Docker 
 
 <b>Mes langages de programmation</b>
 <p align="left">
